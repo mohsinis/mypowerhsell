@@ -57,8 +57,8 @@ A PowerShell script that generates comprehensive reports on disk sizes across al
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/azure-disk-reporter.git
-   cd azure-disk-reporter
+   git clone https://github.com/mohsinis/mypowerhsell.git
+   cd mypowerhsell
    ```
 
 2. Make the script executable (macOS/Linux only):
