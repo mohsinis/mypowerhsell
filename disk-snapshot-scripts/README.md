@@ -77,17 +77,17 @@ The script provides:
 
 ```
 Starting Azure disk snapshot process...
-✓ Successfully set subscription to: usi-sandbox-sub
-Found 13 disks to process
+✓ Successfully set subscription to: my-sandbox-sub
+Found 5 disks to process
 
-Processing disk: usil800-backupvg-Disk01
-✓ Disk found: usil800-backupvg-Disk01
-✓ Successfully created snapshot: usil800-backupvg-Disk01-snapshot
+Processing disk: my-backupvg-Disk01
+✓ Disk found: my-backupvg-Disk01
+✓ Successfully created snapshot: my-backupvg-Disk01-snapshot
 
 === SNAPSHOT CREATION SUMMARY ===
-Successful snapshots: 13
+Successful snapshots: 5
 Failed snapshots: 0
-Total disks processed: 13
+Total disks processed: 5
 ```
 
 ## Troubleshooting
