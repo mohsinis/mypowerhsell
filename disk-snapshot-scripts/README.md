@@ -57,7 +57,7 @@ chmod +x azure-disk-snapshot.sh
 
 ## Target Disks
 
-The script is configured to create snapshots for the following disks:
+The script is configured to create snapshots for the following example disks:
 - my-backupvg-Disk01
 - my-logarch_vg-Disk01
 - my-logdir_vg-Disk01
